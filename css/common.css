@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+
+.img-border {
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+
+.container-fluid .center{
+    text-align: center;
+}
+
+footer {
+    background-color: grey;
+    font-family: 'Arial', sans-serif;
+    color: white;
+    padding: 30px 0 30px 0;
+}
+
+footer li {
+    list-style-type: none;
+    margin:10px 0 10px 0;
+    text-align: center;
+}
+
+footer ul {
+    padding: 0;
+}
+
+.description {
+    padding: 0 50px 0 50px;
+}
+
+.border-left  {
+    border-left: 1px solid grey;
+}
+
+.border-right {
+    border-right: 1px solid grey;
+}
